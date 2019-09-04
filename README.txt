@@ -1,6 +1,8 @@
-Team 7: A Game Has No Name
-
 BATTLESHIPS
+Welcome to Battleships!
+Battleships is a two player game where players can place 'ships' in a 10x10 grid . The aim of the game is to destroy all of the opponent's ships.There is: 1 AIRCRAFT CARRIER (5 BLOCKS), 1 SUBMARINE (4 BLOCKS), 1 BATTLESHIP (3 BLOCKS)
+
+
 1. Functions.py is the definition of all the functions used in the game like random placement of the ships, checking for a hit or a miss, calculating end of game and grids for both players.
 
 2. NewGame_1.py is the new game screen where the game can be played and which alternates with NewGame_2.py. It consists of two 10x10 grids with playable buttons which display red or yellow depending on hit or miss.
